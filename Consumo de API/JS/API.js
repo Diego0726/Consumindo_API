@@ -25,6 +25,6 @@ async function buscarcidade(){
 
     tempo.textContent = "Está de " +dados.main.temp 
 
-   previsao.textContent = "Descrição: " +dados.weather[0].descripiton
+   previsao.textContent = "Descrição: " +dados.weather[0].description
 }
 
